@@ -1,2 +1,2 @@
-city :none
-name :none
+city :chennai
+name :priyanka
